@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\mediaexplorer74\AudioX\AudioX\SAPlayerSample.UWP\SAPlayerSample.UWP.csproj;x86

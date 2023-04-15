@@ -1,15 +1,1 @@
-# .NET C# Plugins
-
-The home for cross-platform Windows and Xamarin plugins written by me (Adrian Stevens) along with amazing contributions from the community. 
-
-*SimpleAudioPlayer* is stable and published as a nuget package on nuget.org: https://www.nuget.org/packages/Xam.Plugin.SimpleAudioPlayer/
-
-*SimpleAudioRecorder* is in beta and is published on nuget.org: https://www.nuget.org/packages/Xam.Plugin.SimpleAudioRecorder/
-
-*SpeechToText* has been depricated but the code is available for reference
-
-
-
-## Contributions
-Contributions are welcome! If you find a bug want a feature added please report it.
-If you want to contribute code please file an issue, create a branch, and file a pull request.
+# AudioX A free and simple UWP based browser for Mobile (and Desktop) with a range of feature to try to improve browsing on Windows MobileA free and simple cross-platform "audio-subsystem" for Xamarin.Forms 2.5 and Windows 10 Mobile. Based on [https://github.com/adrianstevens/Xamarin-Plugins](https://github.com/adrianstevens/Xamarin-Plugins) solution.## Screenshots![](Images/shot1.png)![](Images/shot2.png)## Recent changes```- . NET Standard 2.0 -> 1.4```## Features- Start- Stop- Pause- "Time shift"- Someting that I forgot ;)## Credits- Massive thanks to [Adrian Stevens](https://github.com/adrianstevens)- Original source credit goes to [https://github.com/adrianstevens/Xamarin-Plugins](https://github.com/adrianstevens/Xamarin-Plugins)

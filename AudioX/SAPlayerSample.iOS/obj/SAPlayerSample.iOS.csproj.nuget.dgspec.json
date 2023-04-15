@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample.iOS\\SAPlayerSample.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample.iOS\\SAPlayerSample.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample.iOS\\SAPlayerSample.iOS.csproj",
+        "projectName": "SAPlayerSample.iOS",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample.iOS\\SAPlayerSample.iOS.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\SAPlayerSample.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\SAPlayerSample.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xam.Plugin.SimpleAudioPlayer": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\SAPlayerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\SAPlayerSample.csproj",
+        "projectName": "SAPlayerSample",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\SAPlayerSample.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\AudioX\\AudioX\\SAPlayerSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugin.SimpleAudioPlayer": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[2.5.1.527436, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.300-preview.23179.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
